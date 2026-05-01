@@ -1,5 +1,7 @@
 # IDC 2 - A Pretty Smart Dog Puzzle Toy
 
+<sub> Unfortunately im quite sick, I'll improve this once im better/now that i have timeto put it on my portfolio site </sub>
+
 The original prototype design:
 
 ![Original version](assets/01-01-065.png)
