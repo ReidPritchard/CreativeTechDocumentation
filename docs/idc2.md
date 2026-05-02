@@ -11,6 +11,8 @@
 
 ![Original version inner workings](assets/01-01-068.png)
 
+<video controls src="assets/idc1.mp4" title="IDC1 in action"></video>
+
 ### Final Design
 
 ![As a whole](assets/01-22-061.png)
