@@ -1,12 +1,17 @@
 # IDC 2 - A Pretty Smart Dog Puzzle Toy
 
-<sub> Unfortunately im quite sick, I'll improve this once im better/now that i have timeto put it on my portfolio site </sub>
+> **Note:** Unfortunately im quite sick, I'll improve this once im better/now that i have timeto put it on my portfolio site
 
-The original prototype design:
+
+## Design Evolution
+
+### Original Prototype
 
 ![Original version](assets/01-01-065.png)
 
-Now for the sexy one:
+![Original version inner workings](assets/01-01-068.png)
+
+### Final Design
 
 ![As a whole](assets/01-22-061.png)
 
@@ -20,9 +25,37 @@ Now for the sexy one:
 
 ![Dispenser in grass](assets/01-22-067.png)
 
-TODO: Explain how this project has brains (not just beauty)
+## How It Works
 
-Something like:
+Research indicates that dogs continue to try independently to solve puzzles as long as they are successful at least 60% of the time. This toy is designed with a **variable difficulty level** that automatically adjusts based on the dog's performance. This keeps the dog engaged and motivated to continue playing.
 
-Research indicates that dogs with continue to try independently to solve puzzles as long as they are successful at least 60% of the time. This toy is designed to have a variable difficulty level, which automatically adjust based on the dog's performance. This keeps the dog engaged and motivated to continue playing. The level of difficulty is scaled by adjusting "level" of the puzzle. This includes the number of steps required to access the food, the complexity of the steps, and even the number of mistakes allowed before the puzzle is considered failed.
+The difficulty is scaled by adjusting the puzzle "level," which controls:
+- The number of steps required to access the food
+- The complexity of the steps
+- The number of mistakes allowed before the puzzle is reset
 
+## Features
+
+- **Variable difficulty level** that adjusts based on the dog's performance
+- **Food dispenser** that rewards successful puzzle completion
+- **3 buttons** with full RGB backlighting
+- **Motion sensor** that works with the "puzzle interval timer" to detect when the dog is awake and ready to play
+- **Web interface** for monitoring performance and adjusting settings *(Future: adding a small screen to eliminate the need for phone/computer interaction)*
+- **Buzzer** for audio feedback
+- **Easy-to-clean design** gave a lot of thought to it for IDC 1 and implemented a similar design for IDC 2
+- **Super sexy design** that just looks so good (in my humble opinion)
+
+## Technical Details
+
+- **Helical gears** for smooth and quiet operation
+- **Ball bearing** at the center of the gear system to reduce noise and friction
+
+TODO: Will add a video of the toy in action!! But rn I need to sleep
+
+![100 ways not to make a dog toy](assets/IMG_9011.jpeg)
+
+Look at that. You've wasted another perfectly good 5 minutes reading about this project. 
+
+<video controls src="assets/IMG_5791.MOV" title="dog licking me"></video>
+
+![dog](assets/IMG_20220816_083208.JPG)
